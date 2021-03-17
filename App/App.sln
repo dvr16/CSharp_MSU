@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefValueTypes", "RefValueTypes\RefValueTypes.csproj", "{B0ADF9EE-99DC-4BD4-9333-5AA769C93860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedUnchecked", "CheckedUnchecked\CheckedUnchecked.csproj", "{963E443E-600E-4C58-AAA4-6124F9A46B80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0ADF9EE-99DC-4BD4-9333-5AA769C93860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0ADF9EE-99DC-4BD4-9333-5AA769C93860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0ADF9EE-99DC-4BD4-9333-5AA769C93860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
