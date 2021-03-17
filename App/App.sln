@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefValueTypes", "RefValueTy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedUnchecked", "CheckedUnchecked\CheckedUnchecked.csproj", "{963E443E-600E-4C58-AAA4-6124F9A46B80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{BC433C79-0A83-414D-9248-201B3C2828A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963E443E-600E-4C58-AAA4-6124F9A46B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC433C79-0A83-414D-9248-201B3C2828A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC433C79-0A83-414D-9248-201B3C2828A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC433C79-0A83-414D-9248-201B3C2828A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC433C79-0A83-414D-9248-201B3C2828A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
