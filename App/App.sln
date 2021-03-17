@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefValueTypes", "RefValueTypes\RefValueTypes.csproj", "{B0ADF9EE-99DC-4BD4-9333-5AA769C93860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefValueTypes", "RefValueTypes\RefValueTypes.csproj", "{B0ADF9EE-99DC-4BD4-9333-5AA769C93860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedUnchecked", "CheckedUnchecked\CheckedUnchecked.csproj", "{963E443E-600E-4C58-AAA4-6124F9A46B80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckedUnchecked", "CheckedUnchecked\CheckedUnchecked.csproj", "{963E443E-600E-4C58-AAA4-6124F9A46B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{BC433C79-0A83-414D-9248-201B3C2828A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{BC433C79-0A83-414D-9248-201B3C2828A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxing", "BoxingUnboxing\BoxingUnboxing.csproj", "{19E4AB96-FF03-4639-8796-E4761AC71AE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BC433C79-0A83-414D-9248-201B3C2828A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC433C79-0A83-414D-9248-201B3C2828A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC433C79-0A83-414D-9248-201B3C2828A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
