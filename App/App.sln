@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckedUnchecked", "Checked
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{BC433C79-0A83-414D-9248-201B3C2828A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxing", "BoxingUnboxing\BoxingUnboxing.csproj", "{19E4AB96-FF03-4639-8796-E4761AC71AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingUnboxing", "BoxingUnboxing\BoxingUnboxing.csproj", "{19E4AB96-FF03-4639-8796-E4761AC71AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterPassing", "ParameterPassing\ParameterPassing.csproj", "{AC6ACE38-1B15-4811-9D62-AF7F7772F682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E4AB96-FF03-4639-8796-E4761AC71AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6ACE38-1B15-4811-9D62-AF7F7772F682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6ACE38-1B15-4811-9D62-AF7F7772F682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6ACE38-1B15-4811-9D62-AF7F7772F682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6ACE38-1B15-4811-9D62-AF7F7772F682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
