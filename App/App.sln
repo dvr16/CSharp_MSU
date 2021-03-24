@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingUnboxing", "BoxingUnb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParameterPassing", "ParameterPassing\ParameterPassing.csproj", "{AC6ACE38-1B15-4811-9D62-AF7F7772F682}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueType", "NullableValueType\NullableValueType.csproj", "{0C549F83-DBF7-4E79-904D-06D5D54BB163}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableValueType", "NullableValueType\NullableValueType.csproj", "{0C549F83-DBF7-4E79-904D-06D5D54BB163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{4947AFFE-4611-42E4-9B01-FBC7E0BE8B6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0C549F83-DBF7-4E79-904D-06D5D54BB163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C549F83-DBF7-4E79-904D-06D5D54BB163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C549F83-DBF7-4E79-904D-06D5D54BB163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4947AFFE-4611-42E4-9B01-FBC7E0BE8B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4947AFFE-4611-42E4-9B01-FBC7E0BE8B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4947AFFE-4611-42E4-9B01-FBC7E0BE8B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4947AFFE-4611-42E4-9B01-FBC7E0BE8B6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
